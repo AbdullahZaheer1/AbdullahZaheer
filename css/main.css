@@ -3454,6 +3454,9 @@ form textarea:required:valid {
   background-color: var(--base);
   color: var(--t-bright);
 }
+.gallery__descr_cursor {
+  cursor: pointer;
+}
 .gallery__descr .rounded-tag.opposite {
   background-color: var(--base-opp);
   color: var(--t-opp-bright);
